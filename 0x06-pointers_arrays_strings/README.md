@@ -66,4 +66,4 @@
   - The function must print the content of size bytes of the buffer pointed by `b`
   
   `main.h`
-Header file containing function prototypes.
+- Header file containing function prototypes.
